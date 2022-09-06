@@ -18,7 +18,8 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de arquivos em camadas, apresento uma imagem "raiz", talvez seja uma boa utilizá-la.
 
 Divirta-se
-###[Link da imagem go ](https://hub.docker.com/repository/docker/sebastiaomarcos/codeeducation)
+##
+[Link da imagem Go no Docker Hub](https://hub.docker.com/repository/docker/sebastiaomarcos/codeeducation)
 
 ## Build 
 
